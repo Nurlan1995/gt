@@ -1,1 +1,5 @@
-qwertyuiop
+<?php
+
+echo "good morning";
+
+?>
